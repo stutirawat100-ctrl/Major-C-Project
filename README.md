@@ -1,4 +1,4 @@
-# Major-C-Project
+# Employee Gratuity and Retirement Benefit Management System
 
 📖 Project Description
 This project is a menu-driven C program that manages employee records and calculates retirement benefits such as Provident Fund (PF) and Gratuity.
